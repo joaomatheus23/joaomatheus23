@@ -23,9 +23,7 @@
 ##
 
 <div> 
-  <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=joaomatheus23&color=00bfbf" alt="Profile views" /> 
-</p>
+<a href="https://hits.sh/github.com/joaomatheus23.svg:/"><img alt="Hits" src="https://hits.sh/github.com/joaomatheus23.svg:.svg?style=for-the-badge&label=visualizadores&color=9e08e6&logo=CafePress"/></a>
 
 
   <a href="https://www.instagram.com/joao_matheus_marques/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
